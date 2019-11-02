@@ -143,7 +143,7 @@
     "resolve-url-loader": "^2.1.0",
     "rimraf": "2.5.2",
     "sass-loader": "^6.0.6",
-    "sequelize": "^3.30.2",
+    "sequelize": "^5.15.1",
     "sequelize-cli": "^2.7.0",
     "serve-favicon": "^2.3.0",
     "style-loader": "^0.18.2",
