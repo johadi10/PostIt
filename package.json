@@ -122,7 +122,7 @@
     "moment": "^2.18.1",
     "morgan": "^1.8.2",
     "node-sass": "^4.7.2",
-    "nodemailer": "^4.0.1",
+    "nodemailer": "^6.4.16",
     "nodemailer-express-handlebars": "^2.0.0",
     "nodemon": "^1.11.0",
     "npm-run-all": "1.8.0",
